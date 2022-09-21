@@ -1,0 +1,15 @@
+td {
+    background-color:blue;
+    width:5px;
+    height:5px;
+    border-radius: 20px;
+    }
+    
+table{
+    border-spacing:0px;
+    background-color:blue;
+}
+
+/* tr{
+    background-color: black;
+} */
